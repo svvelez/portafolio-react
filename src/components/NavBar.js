@@ -36,7 +36,7 @@ return(
     <Container>
      
       <Navbar.Brand href="#home" >
-       <img src={logo} alt="Logo"/>
+       <img src={logo} alt="Logo" width="150px"/>
         </Navbar.Brand>
      
       <Navbar.Toggle aria-controls="basic-navbar-nav">
